@@ -1,0 +1,14 @@
+##this is just of revision purpose 
+
+ls
+mkdir
+ps
+top
+sudo
+su
+rm
+mv
+cp
+ping
+curl
+
