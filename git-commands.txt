@@ -1,0 +1,11 @@
+## this is just for git command revision
+
+git add <filename>
+
+git commit -m <commit mess>
+
+git push origin <branchname>
+
+git remote -v
+
+git remote set-url origim <url of remote repo>
